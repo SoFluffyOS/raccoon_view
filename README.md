@@ -1,3 +1,5 @@
+> **Moved.** On 2026-10-22 this repository merged into [SoFluffyOS/raccoon](https://github.com/SoFluffyOS/raccoon) at `packages/raccoon_view`, every commit kept. It is archived; issues and changes go there.
+
 # raccoon_view
 
 Flutter widgets that show an app hosted by the Raccoon runtime inside Lumide:
